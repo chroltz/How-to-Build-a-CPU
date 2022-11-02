@@ -3,7 +3,8 @@ body, html {
   margin: 0;
   margin-left: 80px;
   font-family: Arial, Helvetica, sans-serif;
-background-color: #bdc78f;
+  background: #b8be86;/*body background*/
+  color:#6a5d3e;/*words*/
 }
 
 p { font-size: 16px; }
@@ -11,18 +12,12 @@ p { font-size: 16px; }
 .header {
   padding: 10px;
   text-align: center;
-  background: #617B30;
-  color: white;
+  background: #676c3b; /*background*/
+  color: #d0be8f; /*words*/
   font-size: 30px;
 }
 
 /* Create two columns/boxes that floats next to each other */
-nav {
-  float: left;
-  width: 10%;
-  background: 617B30;
-  padding: 20px;
-}
 
 /* Style the list inside the menu */
 nav ul {
@@ -36,7 +31,7 @@ nav ul {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #4A2511; /* Brown */
+  background: #6a5d3e; /* background */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
@@ -46,13 +41,13 @@ nav ul {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #b8be86;/*words*/
   display: block;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #f4f6dc;/*hover words*/
 }
 
 /* Style page content */
@@ -71,7 +66,7 @@ article {
   float: left;
   padding: 10px;
   width: 80%;
-  background-color: bdc78f;
+  background: #b8be86;/*around article*/
 }
 
 /* Clear floats after the columns */
@@ -109,7 +104,7 @@ section::after {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: #f4f6dc;/*idk*/
     font-size: 250%;
 }
 
@@ -150,9 +145,9 @@ section::after {
 }
 
 .button {
-    background-color: #2A5DB0;
+    background-color: #6a5d3e;
     border: none;
-    color: white;
+    color: #f4f6dc;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
@@ -161,7 +156,7 @@ section::after {
 }
 
 .button:hover {
-    background-color: #4682B4;
+    background-color: #d0be8f;
 }
 
 /* Change unordered list from disc (default) to circle, square, or none. */
