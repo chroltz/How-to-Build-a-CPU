@@ -12,8 +12,6 @@ On launch the landing page has an introduction and general information. To the l
 Here in GitHub, there are other documents such as a license and diversity statement.
  
 We hope you enjoy it!
-
-<br>
 https://chroltz.github.io/How-to-Upgrade-or-Recycle-a-CPU/
 
 ## Built With
