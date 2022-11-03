@@ -13,6 +13,9 @@ Here in GitHub, there are other documents such as a license and diversity statem
  
 We hope you enjoy it!
 
+<br>
+https://chroltz.github.io/How-to-Upgrade-or-Recycle-a-CPU/
+
 ## Built With
 
 HTML
