@@ -19,11 +19,6 @@ HTML
 
 CSS
 
-
-## Usage
-
-Website Link: https://chroltz.github.io/How-to-Upgrade-or-Recycle-a-CPU/ (TEMP)
-
 ## Contributors
 
 Kelly Katillius:  kellykatilius (github.com), https://github.com/kellykatilius
