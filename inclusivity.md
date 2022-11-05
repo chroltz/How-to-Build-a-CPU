@@ -1,4 +1,1 @@
-Our commitment to diversity and inclusion is one of the top priorities for us. We believe that everyone, no matter their age, gender, race, religion,
-sexual orientation, or potential disability, deserves accessibility to our manual and should be supported when using our it. Our values include
-empathy, open-mindedness, and acceptance. We embrace making our manual equitable for all underrepresented groups who use it, especially those that 
-face challenges surrounding manuals like ours. 
+One of our top prioritizes remains our commitment to the values of diversity and inclusion. We believe that everyone, no matter their background, nationality, orientation, identity, gender, race, religion, sexual orientation, or disability, deserves accessibility to our product and the opportunity to participate in our open source project. They are encourages and supported to use and evolve this project. Our values include empathy, open-mindedness, and acceptance. We embrace making this manual and product equitable for all those who use it.
